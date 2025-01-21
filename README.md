@@ -15,13 +15,13 @@
    cd Voice-bot
 
 2. Create and activate a virtual environment:
--python -m venv env
--source env/bin/activate 
+- python -m venv env
+- source env/bin/activate 
 3. Install dependencies
-    -pip install -r requirements.txt
+    - pip install -r requirements.txt
 
 Quick Start:
 
 Set up environment variables:41
--export OPENAI_API_KEY=your_openai_api_key
--export Assemblyai_API_KEY=assemblyai_api_key
+- export OPENAI_API_KEY=your_openai_api_key
+- export Assemblyai_API_KEY=assemblyai_api_key
