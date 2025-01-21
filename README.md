@@ -3,7 +3,10 @@
 [![Repo](https://github.com/mantuchau/Voice-bot)]
 
 ## Installation
-
+- Install Python Libraries.
+- Realtime transcript with AsseblyAI
+- Pass Real-time transcript to OpenAI
+- Live audio stream from ElelvenLabs
 ### Prerequisites
 - Python 3.9 or later
 - Required libraries: `openai`, `assemblyai`, `elevenlabs`, etc.
@@ -22,6 +25,6 @@
 
 Quick Start:
 
-Set up environment variables:41
+Set up environment variables:
 - export OPENAI_API_KEY=your_openai_api_key
 - export Assemblyai_API_KEY=assemblyai_api_key
