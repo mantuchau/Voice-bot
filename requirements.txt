@@ -1,0 +1,7 @@
+assemblyai
+openai
+elevenlabs
+mpv
+portaudio
+
+-e .
